@@ -38,7 +38,16 @@
 
 ###
 
-<p align="left">Projeto <br>     |<br>     | - HTML<br>     | - CSS<br>     | - JAVASCRIPT<br>     -----------------</p>
+```
+
+<p align="left"> Projeto <br>
+                |<br>
+                | - HTML<br>
+                | - CSS<br>
+                | - JAVASCRIPT<br>
+                 -----------------</p>
+
+```
 
 ###
 
