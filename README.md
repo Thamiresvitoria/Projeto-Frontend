@@ -40,8 +40,8 @@
 
 ```
 
-<p align="left"> Projeto <br>
-                |<br>
+                Projeto 
+                |
                 | - HTML<br>
                 | - CSS<br>
                 | - JAVASCRIPT<br>
